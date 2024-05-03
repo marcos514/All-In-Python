@@ -1,0 +1,9 @@
+Select +language of the image to read
+Select +language to translate the image to
+Select config for tesseract (--psm 6)
+Create Front End for tooling and testing
+Create API Rest to add and use shortcuts
+
+Save Image locally with translation
+Save original image
+Display all images in a page in a better display
