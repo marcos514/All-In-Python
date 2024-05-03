@@ -1,65 +1,46 @@
-1) Install tesseract locally:
-   * Mac brew info tesseract
-   * Ubuntu ...
-2) Install python dependencies
-   1)  pip install pytesseract
-   2)  pip install opencv-python
-   3)  https://gist.github.com/hprobotic/0dc912f69483c3bdf578d4315249820a
-3) open -na "Google Chrome" --args --remote-debugging-port=8989 --user-data-dir="/Users/marcosrey/Desktop/ScreenTranslator/chrome"
+# Getting Started with Create React App
 
-docker run -e DISPLAY=docker.for.mac.host.internal:0 sshipway/xclock
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Available Scripts
 
+In the project directory, you can run:
 
-https://manhuaus.com/manga/my-lucky-encounter-from-the-game-turned-into-reality/chapter-1/
+### `npm start`
 
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
+### `npm test`
 
-https://harimanga.com/manga/i-will-take-the-duchy-from-today/chapter-46/
-https://codepen.io/daniellc-the-lessful/project/editor/DPEPmg
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+### `npm run build`
 
-https://pythonspeed.com/articles/externally-managed-environment-pep-668/
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-DOCKER UI
-https://gist.github.com/sorny/969fe55d85c9b0035b0109a31cbcb088
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `npm run eject`
 
-https://pythonspeed.com/articles/externally-managed-environment-pep-668/
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-https://codepen.io/daniellc-the-lessful/project/editor/DPEPmg
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
+## Learn More
 
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-
-l2 support engineer
-
-
-
-Youngest Princess
-
-Itsudemo Jitaku Ni Kaerareru Ore Wa, Isekai De Gyoushounin O Hajimemashita
-
-Vengeance from a Saint Full of Wounds
-
-Le Chef Otaku arena volume 4
-
-divorcing my tyrant husband
-
-Heartwarming Isekai Reincarnation Days ~Level Max, Item Carryover! I'm The Strongest Little Girl
- i became the strongest with the failure frame
-
-https://jobs.80000hours.org/?source=email&utm_source=80%2C000%20Hours%20mailing%20list&utm_campaign=2737415ffd-EMAIL_CAMPAIGN_2024_04_02_11_09&utm_medium=email&utm_term=0_-2737415ffd-%5BLIST_EMAIL_ID%5D
-
-https://selenium-python.readthedocs.io/locating-elements.html
-
-Tsuihou Sareta Renkinjutsushi-san, Saikyou no Dungeon wo Tsukurimasen
-
-Time-Limited Genius Dark Knigh
-https://www.webtoons.com/en/fantasy/the-lazy-lord-masters-the-sword/s3-ep-94-why-i-stand-alone/viewer?title_no=3349&episode_no=96
-
-codility
+To learn React, check out the [React documentation](https://reactjs.org/).
